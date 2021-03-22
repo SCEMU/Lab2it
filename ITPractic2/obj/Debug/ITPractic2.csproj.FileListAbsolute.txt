@@ -1,0 +1,9 @@
+D:\Documents\1\222\ITPractic2\obj\Debug\ITPractic2.csprojAssemblyReference.cache
+D:\Documents\1\222\ITPractic2\obj\Debug\ITPractic2.Properties.Resources.resources
+D:\Documents\1\222\ITPractic2\obj\Debug\ITPractic2.csproj.GenerateResource.cache
+D:\Documents\1\222\ITPractic2\bin\Debug\Form1.resx
+D:\Documents\1\222\ITPractic2\bin\Debug\ITPractic2.exe.config
+D:\Documents\1\222\ITPractic2\bin\Debug\ITPractic2.exe
+D:\Documents\1\222\ITPractic2\bin\Debug\ITPractic2.pdb
+D:\Documents\1\222\ITPractic2\obj\Debug\ITPractic2.exe
+D:\Documents\1\222\ITPractic2\obj\Debug\ITPractic2.pdb
